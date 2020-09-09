@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/kube-apiserver-amd64@sha256:1fe6515b88033cc2a38b589aef8b726dc2201b1c21f78f8e86b53e80ea0a401e
+FROM gcr.io/google-containers/kube-apiserver-amd64:v1.19.0-rc.1
 
